@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1742462307 source:c:\users\jaber\desktop\dsa love\maze\main.cpp
-	<iostream>
-	<vector>
-	<string>
-	<algorithm>
-	<bits/stdc++.h>
-

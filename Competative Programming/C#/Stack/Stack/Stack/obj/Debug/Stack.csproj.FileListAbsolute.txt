@@ -1,0 +1,7 @@
+C:\Users\JABER\Desktop\Competetive Pogramming\C#\Stack\Stack\Stack\bin\Debug\Stack.exe.config
+C:\Users\JABER\Desktop\Competetive Pogramming\C#\Stack\Stack\Stack\bin\Debug\Stack.exe
+C:\Users\JABER\Desktop\Competetive Pogramming\C#\Stack\Stack\Stack\bin\Debug\Stack.pdb
+C:\Users\JABER\Desktop\Competetive Pogramming\C#\Stack\Stack\Stack\obj\Debug\Stack.csproj.AssemblyReference.cache
+C:\Users\JABER\Desktop\Competetive Pogramming\C#\Stack\Stack\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+C:\Users\JABER\Desktop\Competetive Pogramming\C#\Stack\Stack\Stack\obj\Debug\Stack.exe
+C:\Users\JABER\Desktop\Competetive Pogramming\C#\Stack\Stack\Stack\obj\Debug\Stack.pdb

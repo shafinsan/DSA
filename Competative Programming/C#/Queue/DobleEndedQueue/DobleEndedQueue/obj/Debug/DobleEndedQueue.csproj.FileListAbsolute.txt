@@ -1,0 +1,7 @@
+C:\Users\JABER\Desktop\Competetive Pogramming\C#\Queue\DobleEndedQueue\DobleEndedQueue\bin\Debug\DobleEndedQueue.exe.config
+C:\Users\JABER\Desktop\Competetive Pogramming\C#\Queue\DobleEndedQueue\DobleEndedQueue\bin\Debug\DobleEndedQueue.exe
+C:\Users\JABER\Desktop\Competetive Pogramming\C#\Queue\DobleEndedQueue\DobleEndedQueue\bin\Debug\DobleEndedQueue.pdb
+C:\Users\JABER\Desktop\Competetive Pogramming\C#\Queue\DobleEndedQueue\DobleEndedQueue\obj\Debug\DobleEndedQueue.csproj.AssemblyReference.cache
+C:\Users\JABER\Desktop\Competetive Pogramming\C#\Queue\DobleEndedQueue\DobleEndedQueue\obj\Debug\DobleEndedQueue.csproj.CoreCompileInputs.cache
+C:\Users\JABER\Desktop\Competetive Pogramming\C#\Queue\DobleEndedQueue\DobleEndedQueue\obj\Debug\DobleEndedQueue.exe
+C:\Users\JABER\Desktop\Competetive Pogramming\C#\Queue\DobleEndedQueue\DobleEndedQueue\obj\Debug\DobleEndedQueue.pdb

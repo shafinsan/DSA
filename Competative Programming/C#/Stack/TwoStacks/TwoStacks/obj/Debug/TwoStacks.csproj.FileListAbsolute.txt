@@ -1,0 +1,7 @@
+C:\Users\JABER\Desktop\Competetive Pogramming\C#\Stack\TwoStacks\TwoStacks\bin\Debug\TwoStacks.exe.config
+C:\Users\JABER\Desktop\Competetive Pogramming\C#\Stack\TwoStacks\TwoStacks\bin\Debug\TwoStacks.exe
+C:\Users\JABER\Desktop\Competetive Pogramming\C#\Stack\TwoStacks\TwoStacks\bin\Debug\TwoStacks.pdb
+C:\Users\JABER\Desktop\Competetive Pogramming\C#\Stack\TwoStacks\TwoStacks\obj\Debug\TwoStacks.csproj.AssemblyReference.cache
+C:\Users\JABER\Desktop\Competetive Pogramming\C#\Stack\TwoStacks\TwoStacks\obj\Debug\TwoStacks.csproj.CoreCompileInputs.cache
+C:\Users\JABER\Desktop\Competetive Pogramming\C#\Stack\TwoStacks\TwoStacks\obj\Debug\TwoStacks.exe
+C:\Users\JABER\Desktop\Competetive Pogramming\C#\Stack\TwoStacks\TwoStacks\obj\Debug\TwoStacks.pdb

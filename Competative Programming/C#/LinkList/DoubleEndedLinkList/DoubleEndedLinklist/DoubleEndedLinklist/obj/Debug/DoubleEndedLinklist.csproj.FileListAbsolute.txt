@@ -1,0 +1,7 @@
+C:\Users\JABER\Desktop\Competetive Pogramming\C#\Queue\LinkList\DoubleEndedLinkList\DoubleEndedLinklist\DoubleEndedLinklist\bin\Debug\DoubleEndedLinklist.exe.config
+C:\Users\JABER\Desktop\Competetive Pogramming\C#\Queue\LinkList\DoubleEndedLinkList\DoubleEndedLinklist\DoubleEndedLinklist\bin\Debug\DoubleEndedLinklist.exe
+C:\Users\JABER\Desktop\Competetive Pogramming\C#\Queue\LinkList\DoubleEndedLinkList\DoubleEndedLinklist\DoubleEndedLinklist\bin\Debug\DoubleEndedLinklist.pdb
+C:\Users\JABER\Desktop\Competetive Pogramming\C#\Queue\LinkList\DoubleEndedLinkList\DoubleEndedLinklist\DoubleEndedLinklist\obj\Debug\DoubleEndedLinklist.csproj.AssemblyReference.cache
+C:\Users\JABER\Desktop\Competetive Pogramming\C#\Queue\LinkList\DoubleEndedLinkList\DoubleEndedLinklist\DoubleEndedLinklist\obj\Debug\DoubleEndedLinklist.csproj.CoreCompileInputs.cache
+C:\Users\JABER\Desktop\Competetive Pogramming\C#\Queue\LinkList\DoubleEndedLinkList\DoubleEndedLinklist\DoubleEndedLinklist\obj\Debug\DoubleEndedLinklist.exe
+C:\Users\JABER\Desktop\Competetive Pogramming\C#\Queue\LinkList\DoubleEndedLinkList\DoubleEndedLinklist\DoubleEndedLinklist\obj\Debug\DoubleEndedLinklist.pdb
